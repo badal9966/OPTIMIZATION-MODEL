@@ -40,3 +40,5 @@ We define:
   - *Cost limit*: x1 + 2*x2 ≤ 8
 
 ## 📄 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d2b3159e-9057-42a0-a4f0-d22d28bc929e)
